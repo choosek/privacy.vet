@@ -1,2 +1,3 @@
 # privacy.vet
-Interactive cross-chain transaction privacy analysis tool.
+
+Interactive privacy analysis tool for cross-chain transactions.
